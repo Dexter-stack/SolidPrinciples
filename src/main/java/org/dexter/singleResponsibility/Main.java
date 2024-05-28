@@ -1,4 +1,4 @@
-package org.dexter;
+package org.dexter.singleResponsibility;
 
 import org.dexter.singleResponsibility.Account;
 import org.dexter.singleResponsibility.AccountOperations;
